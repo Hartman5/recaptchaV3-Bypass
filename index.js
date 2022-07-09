@@ -1,7 +1,6 @@
 const axios = require('axios');
 
 const anchor_url = 'PUT ANCHOR URL HERE'
-const post_data = "v={}&reason=q&c={}&k={}&co={}"
 var url_base = 'https://www.google.com/recaptcha/'
 var re = new RegExp('([api2|enterprise]+)\/anchor\?(.*)');
 var matches = anchor_url.match(re);
