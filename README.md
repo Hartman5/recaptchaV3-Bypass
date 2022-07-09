@@ -1,6 +1,11 @@
 # recaptchaV3-Bypass
 Bypass recaptchaV3 instantly for free, only using HTTP requests
 
+# Install Packages
+- Open folder path for this program
+- Type CMD where your file manager says the path
+- Type "npm i" into the prompt, and run that
+
 # How To Use
 - Go to site with recaptchaV3
 - Open DevTools in your browser (ctrl + shift + i)
